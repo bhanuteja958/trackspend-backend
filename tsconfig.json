@@ -7,7 +7,7 @@
         "sourceMap": true,
         "skipLibCheck": true,
         "allowUnreachableCode": false,
-        "allowUnusedLabels": false
+        "allowUnusedLabels": false,
     },
     "include": ["src/**/*"]
 }
